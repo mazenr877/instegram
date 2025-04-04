@@ -7,6 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 . Created an Instagram-style app with post viewing and interactive features optimized for both  mobile and desktop.
+
 . Advantage  Flutter with Bloc and MVVM for state management, ensuring clean and maintainable code.
 
 A few resources to get you started if this is your first Flutter project:
